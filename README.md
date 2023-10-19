@@ -73,7 +73,7 @@ Please refer to the paper for more insights and reasoning behind this design.
 ## Quick Start
 ### Clone the repository
 ```
-git clone https://github.com/xxxxxxxxx
+git clone https://github.com/snap-research/qfar.git
 cd qfar
 ```
 ### Create conda environment
