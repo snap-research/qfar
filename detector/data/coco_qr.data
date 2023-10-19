@@ -1,0 +1,6 @@
+classes=1
+train=data//coco_qr_train.txt
+valid=data//coco_qr_test.txt
+names=data//coco_qr.names
+backup=backup/
+eval=coco
